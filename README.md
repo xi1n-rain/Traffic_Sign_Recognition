@@ -10,7 +10,7 @@ This project, for the ***Visual Computing*** track of the ***National University
 
 ### 0. Downlaod Datasets, environment configuration
 Before running code, you should download the datasets. Starter_level and expert_level need Dataset1. The bonus level needs Dataset2. 
-Change path in the code.
+Change path in the code.        
 Also need to do environmental configuration. We highly reconmmend Anaconda.
 
 ### 1. Level-1: starter.py
