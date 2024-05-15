@@ -1,6 +1,6 @@
 # Traffic_Sign_Recognition
 
-This project, for the ***Visual Computing*** track of the ***National University of Singapore School of Computing Summer Workshop 2023***, was completed with the contributions of *Yuhao Zhang*, *Bingyu Chen*, *Aijing Liu*, and *Yuxin Tan*. We successfully finished the project and were awarded the 3rd prize.
+This project, for the ***Visual Computing*** track of the ***National University of Singapore, School of Computing(SoC) Summer Workshop 2023***, was completed with the contributions of *Yuhao Zhang*, *Bingyu Chen*, *Aijing Liu*, and *Yuxin Tan*. We successfully finished the project and were awarded the 3rd prize.
 
 ```markdown
 ├── starter.py # level-1
