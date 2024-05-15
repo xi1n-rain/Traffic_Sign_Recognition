@@ -17,6 +17,5 @@ Also need to do environmental configuration. We highly reconmmend Anaconda.
 ```markdown
 python starter.py
 ```
-In this level, we have implemented a straightforward classification exercise.     
-Simply run the code, and you will observe an accuracy of approximately 0.94.          
-Running the code without a GPU may require less than 2 minutes.
+In this level, we have implemented a straightforward classification exercise. Simply run the code, and you will observe an accuracy of approximately 0.94.          
+Running the code without a GPU may require less than 2 minutes.(This means that GPU is optional.)
