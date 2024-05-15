@@ -7,3 +7,7 @@ This project, for the ***Visual Computing*** track of the ***National University
 ├── expert.ipynb # 在 starter_level 的基础上增加了图像预处理，尝试多种特征提取方式和分类器
 └── README.md # 说明文档
 ```
+
+### 0. Preparation 
+Before running code, you should download the datasets. Starter_level and expert_level need Dataset1. The bonus level needs Dataset2. 
+Change path in the code.
