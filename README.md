@@ -1,21 +1,18 @@
-# Traffic_Sign_Recognition
+# Traffic_Sign_Recognition 
 
-This project, for the ***Visual Computing*** track of the ***National University of Singapore, School of Computing(SoC) Summer Workshop 2023***, was completed with the contributions of *Yuhao Zhang*, *Bingyu Chen*, *Aijing Liu*, and *Yuxin Tan*. We successfully finished the project and were awarded the 3rd prize.
+This project was part of the ***Visual Computing*** track of the ***National University of Singapore, School of Computing(SoC) Summer Workshop 2023***. Our group was awarded the 3rd prize for this project.
 
 ```markdown
-├── starter.py # level-1
-├── expert.ipynb # level-2: 在 starter_level 的基础上增加了图像预处理，尝试多种特征提取方式和分类器.
-└── README.md
+├── Dataset # download here Dataset_1 | Dataset_2  
+├── starter.py # Level-1                    
+├── expert.ipynb # Level-2   
+├── bonus # Level-3   
+│   ├── color_classification.py # Refer to the poster for details     
+│   └── structure.py                     
+└── README.md  
 ```
+**Notice :** We did not utilize DL models for this project.
 
-### 0. Downlaod Datasets, environment configuration
-Before running code, you should download the datasets. Starter_level and expert_level need Dataset1. The bonus level needs Dataset2. 
-Change path in the code.        
-Also need to do environmental configuration. We highly reconmmend Anaconda.
-
-### 1. Level-1: starter.py
-```markdown
-python starter.py
-```
-In this level, we have implemented a straightforward classification exercise. Simply run the code, and you will observe an accuracy of approximately 0.94.          
-Running the code without a GPU may require less than 2 minutes.(This means that GPU is optional.)
++ Both the Starter and Expert levels require Dataset_1. The Bonus level requires Dataset_2. Make sure to update the paths in the code accordingly.
++ Refer to the poster for specific details. Feel free to execute the code, modify methods, adjust parameters, and observe performance variations.
++ Running the Bonus level code without a GPU may take less than 15 minutes.(It means that GPU is optional.)
