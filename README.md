@@ -19,5 +19,5 @@ This project was part of the ***Visual Computing*** track of the ***National Uni
 + Refer to the poster for specific details. Feel free to execute the code, modify methods, adjust parameters, and observe performance variations.
 + Running the Bonus level code without a GPU may take less than 15 minutes.(It means that GPU is optional.)
 
-> **This project was developed with contributions from all team members.*
-> **All code and documentation were carefully organized by Tan Yuxin. I would like to thank my dear friends for their support. I will always remember the journey in Singapore.*
+> *This project was developed with contributions from all team members.*
+> *All code and documentation were carefully organized by Tan Yuxin. I would like to thank my dear friends for their support. I will always remember the journey in Singapore.*
