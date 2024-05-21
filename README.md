@@ -1,6 +1,6 @@
 # Traffic_Sign_Recognition 
 
-This project was part of the ***Visual Computing*** track of the ***National University of Singapore, School of Computing(SoC) Summer Workshop 2023***. Our group was awarded the 3rd prize for this project.
+This project was part of the ***Visual Computing*** track of the ***National University of Singapore, School of Computing(SoC) Summer Workshop 2023***. It's a collaborative effort among four group members. We were awarded the 3rd prize for this project.
 
 
 ```markdown
@@ -19,4 +19,5 @@ This project was part of the ***Visual Computing*** track of the ***National Uni
 + Refer to the poster for specific details. Feel free to execute the code, modify methods, adjust parameters, and observe performance variations.
 + Running the Bonus level code without a GPU may take less than 15 minutes.(It means that GPU is optional.)
 
-
+> This project was developed with contributions from all team members.
+> **All code and documentation were carefully organized by Tan Yuxin. I would like to thank my dear friends for their support. I will always remember the journey in Singapore.*

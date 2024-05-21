@@ -165,8 +165,6 @@ def Test(test_path, csv_path, model_paths):
     X_color = color_predict(X_ori, model_paths) 
 ## al
 
-
-
 #----------------------Color Prediction End----------------------#
 
     sign_classifiers = load_models(model_paths) # 加载SVM分类器
