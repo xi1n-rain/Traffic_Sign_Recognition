@@ -1,4 +1,6 @@
-$ git filter-branch --env-filter '
+#!/bin/bash
+
+git filter-branch --env-filter '
 WRONG_EMAIL="fio_yuxin_tan@163.com"
 NEW_NAME="xi1n-rain"
 NEW_EMAIL="tanyuxiin@gmail.com"
@@ -13,4 +15,4 @@ then
     export GIT_AUTHOR_NAME="$NEW_NAME"
     export GIT_AUTHOR_EMAIL="$NEW_EMAIL"
 fi
-' --tag-name-filter cat -- --branches --tags
+' --tag-name-filter cat -- --all
